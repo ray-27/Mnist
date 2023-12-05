@@ -46,11 +46,7 @@ function mouseMoved(){
     h2.html("box : "+int(mouseX/pixel_size)+" , "+int(mouseY/pixel_size))
 }
 
-function mouseDragged(){
-    //rect(int(mouseX/pixel_size)*pixel_size,int(mouseY/pixel_size)*pixel_size, pixel_size,pixel_size)
 
-
-}
 
 function draw(){
 
